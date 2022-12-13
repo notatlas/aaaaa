@@ -159,7 +159,7 @@ Sigma.Icons = {
     Movement = "rbxassetid://10403468113";
     Visuals  = "rbxassetid://10403490626";
     Settings = "rbxassetid://10403508076";
-    Others   = "rbxassetid://11348555048";
+    Others   = "http://www.roblox.com/asset/?id=11348590078";
 };
 
 return Sigma, SigmaUtil
